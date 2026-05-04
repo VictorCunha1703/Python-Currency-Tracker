@@ -3,7 +3,7 @@
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/currency-tracker.git](https://github.com/seu-usuario/currency-tracker.git)
+    git clone https://github.com/VictorCunha1703/Python-Currency-Tracker
     ```
 2.  Instale as dependências:
     ```bash
